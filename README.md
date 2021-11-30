@@ -31,3 +31,20 @@ esse projeto foi desenvolvido com as seguintes tecnologias:
 
 code fonte:
   https://github.com/julio-terra/openMarket-web
+  
+  ### BackEnd
+## 🚀 Tecnologias
+
+esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- ✔️ Javascript
+
+- ✔️ NodeJS
+ 
+- ✔️ Express
+
+- ✔️ MongoDB
+
+code fonte:
+  https://github.com/julio-terra/openMarket-backend
+
