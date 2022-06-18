@@ -12,9 +12,7 @@ Open Market
 
 
 ### FrontEnd
-## 🚀 Tecnologias
-
-esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
 
 - ✔️ Javascript
 
@@ -29,13 +27,11 @@ esse projeto foi desenvolvido com as seguintes tecnologias:
 - ✔️ React-slick
 
 
-code fonte:
+source code:
   https://github.com/julio-terra/openMarket-web
   
   ### BackEnd
-## 🚀 Tecnologias
-
-esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies:
 
 - ✔️ Javascript
 
@@ -45,6 +41,6 @@ esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - ✔️ MongoDB
 
-code fonte:
+source code:
   https://github.com/julio-terra/openMarket-backend
 
