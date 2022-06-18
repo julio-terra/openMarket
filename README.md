@@ -13,8 +13,16 @@ Open Market
 
 
 ## 💻 Features
--
 
+- ✔️ User Login and Registration
+
+- ✔️ Product registration with automatic image upload to s3 storage
+
+- ✔️ Shopping cart using context api
+
+- ✔️ Search engine
+
+- ✔️ Pagination
 
 <hr>
 
@@ -65,7 +73,7 @@ source code:
 
 - ✔️ MongoDB
 
-- ✔️ AWS S3 storage
+- ✔️ AWS s3 storage
 
 source code:
   https://github.com/julio-terra/openMarket-backend
