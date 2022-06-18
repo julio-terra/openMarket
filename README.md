@@ -43,6 +43,8 @@ Open Market
 source code:
   https://github.com/julio-terra/openMarket-web
   
+  
+  <hr />
   ### BackEnd
 ## 🚀 Technologies:
 
