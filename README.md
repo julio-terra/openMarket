@@ -8,7 +8,7 @@
 Open Market
 </h1>
 
-<hr />
+<hr>
 
 
 ### FrontEnd
@@ -44,7 +44,9 @@ source code:
   https://github.com/julio-terra/openMarket-web
   
   
-  <hr />
+  <hr>
+  
+  
   ### BackEnd
 ## 🚀 Technologies:
 
