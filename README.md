@@ -12,7 +12,7 @@ Open Market
 <hr>
 
 
-## 👀 <a href="https://openmarket-8797a.web.app/" aria-label='source code' target="_blank" rel="noreferrer">LivePreview</a>
+## 👀LivePreview <a href="https://openmarket-8797a.web.app/" aria-label='source code' target="_blank" rel="noreferrer">Open</a>
 
 
 
