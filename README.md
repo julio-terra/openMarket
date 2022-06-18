@@ -1,6 +1,6 @@
 
 <h4 align="center"> 
-	🚧  React and Node Select 🚀 Em construção...  🚧
+	🚧  React and Node Select 🚀 Under construction...  🚧
 </h4>
 
 
