@@ -12,19 +12,32 @@ Open Market
 
 
 ### FrontEnd
+## 💻 Features
+-
+
 ## 🚀 Technologies
 
 - ✔️ Javascript
 
 - ✔️ ReactJs
- 
-- ✔️ Redux
+
+- ✔️ React Router
+
+- ✔️ Hooks
+
+- ✔️ Context api
+
+- ✔️ Axios
 
 - ✔️ Bootstrap
 
 - ✔️ Material Disign Icons
 
-- ✔️ React-slick
+- ✔️ Slick
+
+- ✔️ React Tag Auto-Complete
+
+- ✔️ Validator
 
 
 source code:
@@ -40,6 +53,8 @@ source code:
 - ✔️ Express
 
 - ✔️ MongoDB
+
+- ✔️ AWS S3 storage
 
 source code:
   https://github.com/julio-terra/openMarket-backend
